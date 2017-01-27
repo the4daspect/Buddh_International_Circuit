@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THE4DASPECT</Machine>
+    <WindowsUser>Siddharth Mehrotra</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\Buddh_International_Circuit.exe">
+      <PackagePath>Buddh_International_Circuit.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\Buddh_International_Circuit.pdb">
+      <PackagePath>Buddh_International_Circuit.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\WideLogo.png">
+      <PackagePath>WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\Untitled.png">
+      <PackagePath>Images\Untitled.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\338px-Jaypee_International_Circuit_2011.svg.png">
+      <PackagePath>Images\338px-Jaypee_International_Circuit_2011.svg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\005.JPG">
+      <PackagePath>Images\005.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\a_start_budd_2011_2-1.jpg">
+      <PackagePath>Images\a_start_budd_2011_2-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\beautiful-grid-girls-at-F1-Indian-grand-prix.jpg">
+      <PackagePath>Images\beautiful-grid-girls-at-F1-Indian-grand-prix.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\ferr_alon_budd_2011-7.jpg">
+      <PackagePath>Images\ferr_alon_budd_2011-7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\forc_budd_2011-5.jpg">
+      <PackagePath>Images\forc_budd_2011-5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\Indian_GP_Logo_-_Buddh_International_Circuit.jpg">
+      <PackagePath>Images\Indian_GP_Logo_-_Buddh_International_Circuit.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\location-budha-international-circuit.jpg">
+      <PackagePath>Images\location-budha-international-circuit.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\20121028_164931.jpg">
+      <PackagePath>Images\20121028_164931.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\450x300.jpg">
+      <PackagePath>Images\450x300.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\Buddh-International-Circuit-02.jpg">
+      <PackagePath>Images\Buddh-International-Circuit-02.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\Buddh-International-Circuit.jpg">
+      <PackagePath>Images\Buddh-International-Circuit.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\biogf.jpg">
+      <PackagePath>Images\biogf.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\buddh_international_circuit4-getty_1351033421_640x640.jpg">
+      <PackagePath>Images\buddh_international_circuit4-getty_1351033421_640x640.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\F1 India Buddh International Circuit latest pics 1.jpg">
+      <PackagePath>Images\F1 India Buddh International Circuit latest pics 1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\Images\f1_350_101212085025.jpg">
+      <PackagePath>Images\f1_350_101212085025.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\BasicPage1.xaml">
+      <PackagePath>BasicPage1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\map.xaml">
+      <PackagePath>map.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\races2.xaml">
+      <PackagePath>races2.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\about.xaml">
+      <PackagePath>about.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\races.xaml">
+      <PackagePath>races.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth Mehrotra\documents\visual studio 2012\Projects\Buddh_International_Circuit\Buddh_International_Circuit\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

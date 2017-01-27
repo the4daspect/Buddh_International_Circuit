@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Buddh_International_Circuit.gallery"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Buddh_International_Circuit"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF197AB2">
+        <HyperlinkButton x:ConnectionId='1' x:Name="hyp1" Content="Back" HorizontalAlignment="Left" Margin="34,38,0,0" VerticalAlignment="Top" NavigateUri="MainPage.xaml"                                 FontSize="30" Height="57" Width="117"/>
+        <TextBlock HorizontalAlignment="Left" Height="64" Margin="285,71,0,0" TextWrapping="Wrap" Text="Circuit @ BIC" VerticalAlignment="Top" Width="798" FontSize="48" FontFamily="Lucida Calligraphy" TextAlignment="Center"/>
+        <Image x:Name="image1" HorizontalAlignment="Left" Height="435" Margin="74,158,0,0" VerticalAlignment="Top" Width="506" Source="Images/Buddh-International-Circuit.jpg" Stretch="Fill"/>
+        <TextBlock x:Name="TextBlock1" HorizontalAlignment="Left" Height="524" Margin="793,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="517" FontSize="18" FontFamily="Times New Roman"/>
+    </Grid>
+</Page>
+

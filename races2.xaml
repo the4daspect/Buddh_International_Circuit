@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="Buddh_International_Circuit.races2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Buddh_International_Circuit"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FFB0AC53">
+        <TextBlock HorizontalAlignment="Left" Height="60" Margin="242,10,0,0" TextWrapping="Wrap" Text="Formula 1 2012 @ BIC" VerticalAlignment="Top" Width="878" FontSize="48" FontFamily="Lucida Calligraphy" TextAlignment="Center"/>
+        <Image HorizontalAlignment="Left" Height="267" Margin="32,107,0,0" VerticalAlignment="Top" Width="364" RenderTransformOrigin="0.553,1.299" Source="Images/20121028_164931.jpg" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="267" Margin="458,107,0,0" VerticalAlignment="Top" Width="384" Source="Images/450x300.jpg" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="306" Margin="32,426,0,0" VerticalAlignment="Top" Width="364" Stretch="Fill" Source="Images/Untitled.png"/>
+        <Image HorizontalAlignment="Left" Height="306" Margin="458,426,0,0" VerticalAlignment="Top" Width="384" Source="Images/beautiful-grid-girls-at-F1-Indian-grand-prix.jpg" Stretch="Fill"/>
+        <TextBlock x:Name="textblock1" HorizontalAlignment="Left" Height="683" Margin="885,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="449" FontSize="16"/>
+        <Button Content="Back" HorizontalAlignment="Left" Height="66" Margin="32,10,0,0" VerticalAlignment="Top" Width="114" FontSize="22" Click="Button_Click_1"/>
+
+    </Grid>
+</Page>
